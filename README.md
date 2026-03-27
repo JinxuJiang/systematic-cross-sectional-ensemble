@@ -1,6 +1,6 @@
 # Systematic Cross-Sectional Equity Alpha Framework
 
-> A production-grade end-to-end quantitative equity research system featuring **Point-in-Time data alignment**, **Walk-Forward validation**, and **IC-weighted multi-horizon ensemble**. Rank IC **0.114**, IR **0.90**, simulated live return **156%** with realistic transaction costs.
+> A production-grade end-to-end quantitative equity research system featuring **Point-in-Time data alignment**, **Walk-Forward validation**, and **IC-weighted multi-horizon ensemble**. Rank IC **0.114**, IR **0.90**, out-of-sample return **156%** with realistic transaction costs.
 
 ---
 
@@ -367,5 +367,5 @@ Reports generated in `04_backtest/reports/ensemble_5_20_60_v1/`.
 
 ---
 
-*System designed and implemented by [Your Name]*  
+*System designed and implemented by Jinxu Jiang*  
 *Last updated: 2026-03-26*
